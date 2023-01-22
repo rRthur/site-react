@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e06dfb6f.css",
+    "main.js": "./static/js/main.c563dbab.js",
+    "static/media/automoveis.png": "./static/media/automoveis.59ea73ef43fcf0ad1944.png",
+    "static/media/pets.png": "./static/media/pets.fa078d0c44378dcaa158.png",
+    "static/media/eletronicos.png": "./static/media/eletronicos.5dcb5cd6667cf62a35ec.png",
+    "static/media/ferramentas.png": "./static/media/ferramentas.81d2242d1be5b9592c92.png",
+    "static/media/roupas.png": "./static/media/roupas.d580d85b03156e800558.png",
+    "static/media/Joias.png": "./static/media/Joias.13b39a2226e2d3740056.png",
+    "static/media/moveis.png": "./static/media/moveis.ca833694302b24a590fe.png",
+    "index.html": "./index.html",
+    "main.e06dfb6f.css.map": "./static/css/main.e06dfb6f.css.map",
+    "main.c563dbab.js.map": "./static/js/main.c563dbab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e06dfb6f.css",
+    "static/js/main.c563dbab.js"
+  ]
+}
